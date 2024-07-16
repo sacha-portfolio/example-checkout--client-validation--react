@@ -6,8 +6,8 @@
 api_version = "2024-04"
 
 [[extensions]]
-name = "draft-order-vip"
-handle = "draft-order-vip"
+name = "private-client-order-manager"
+handle = "private-client-order-manager"
 type = "ui_extension"
 
 
