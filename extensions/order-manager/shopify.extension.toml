@@ -3,11 +3,11 @@
 
 # The version of APIs your extension will receive. Learn more:
 # https://shopify.dev/docs/api/usage/versioning
-api_version = "2024-04"
+api_version = "2024-07"
 
 [[extensions]]
-name = "private-client-order-manager"
-handle = "private-client-order-manager"
+name = "order-manager"
+handle = "order-manager"
 type = "ui_extension"
 
 
